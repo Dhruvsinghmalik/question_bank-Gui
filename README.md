@@ -39,7 +39,7 @@ README.md            # Documentation file (this file)
 ```
 
 ## Example Screenshot
-*(Include a screenshot here if you want.)*
+![](./image/Question_bank_interface.png)
 
 ## Customization
 - **Questions**: Add, remove, or modify questions by editing the `questions` list in the script:
